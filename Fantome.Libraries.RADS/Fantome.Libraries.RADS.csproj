@@ -45,6 +45,10 @@
     <Compile Include="IO\ReleaseManifest\ReleaseManifestFolderEntry.cs" />
     <Compile Include="IO\RiotArchive\RAF.cs" />
     <Compile Include="IO\RiotArchive\RAFFileEntry.cs" />
+    <Compile Include="IO\SolutionManifest\ConfigurationManifest.cs" />
+    <Compile Include="IO\SolutionManifest\SolutionManifest.cs" />
+    <Compile Include="IO\SolutionManifest\SolutionManifestLocalizedEntry.cs" />
+    <Compile Include="IO\SolutionManifest\SolutionManifestProjectEntry.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
