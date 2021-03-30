@@ -379,7 +379,8 @@ namespace Fantome.Libraries.RADS.IO.ReleaseManifest
             Deployed4 = 4,
             Managed = 5,
             RAFRaw = 6,
-            RAFCompressed = 22
+            RAFCompressed = 22,
+            Garena = 99,
         }
 
         /// <summary>
